@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "The Start"
+date:   2021-01-03 18:49:04 +0000
+
+---
+
+This is my first blog to kick things of, I have a number of personal projects I've been working on over the past year and look to use this blog along with Medium to publish a few short articles around them.
+\
+\
+Here are just a couple of projects I will be posting about:
+\
+\
+<img src="/assets/sensor_context_hardware.png" width="65%">
+<img src="/assets/spider.gif" width="28%">
